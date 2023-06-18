@@ -1,0 +1,30 @@
+/**
+ * @name d
+ * @author Disease#5663
+ * @version 1.0.0
+ * @description Based on Outlook Web.
+ * @source https://github.com/maenDisease/Outlook
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Outlook
+*/
+
+@import url('https://maendisease.github.io/Outlook/Outlook.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+
+:root {
+  --home-image: url('https://static.wikia.nocookie.net/boowser/images/d/d4/Cirno_Fumo.png/revision/latest?cb=20220220031552');
+  --accent-hue: 197;
+  --accent-saturation: 67%;
+  --accent-brightness: 42%;
+  --gradient-toggle: 1;
+  --gradient-hue-shift: 0.09;
+  --gradient-saturation: 71%;
+  --gradient-deg: 187deg;
+  --customFont: Segoe UI;
+}
+
+/* Any custom CSS below here */
+
+
